@@ -1,1 +1,2 @@
-# Problem-Solving-C-main
+# Problem-Solving-C
+C Code 
